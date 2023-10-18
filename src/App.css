@@ -1,0 +1,17 @@
+.container{
+  margin: auto;
+  text-align: center;
+}
+.form{
+  display: flex;
+  flex-direction: column;
+  max-width: 25vw;
+  margin: auto;
+  padding: 18px;
+  justify-content: space-between;
+}
+.button{
+  background-color: #4169da;
+  color: white;
+  padding: 8px;
+}
